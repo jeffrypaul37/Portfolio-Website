@@ -185,7 +185,7 @@ section::before{
 
 
 #clouds1 {
-	background-image: url('/images/cloud1.png');
+	background-image: url('https://github.com/jeffrypaul37/Personal-Website/blob/main/images/cloud1.png?raw=true');
 	background-size: cover;
     position: absolute;
     z-index:11;
