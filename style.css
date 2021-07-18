@@ -155,7 +155,7 @@ section::before{
 
 /*clouds*/
 #clouds {
-	background-image: url('/images/Untitled-1.png');
+	background-image: url('https://github.com/jeffrypaul37/Personal-Website/blob/main/images/Untitled-1.png?raw=true');
 	background-size: cover;
     position: absolute;
     z-index:10;
