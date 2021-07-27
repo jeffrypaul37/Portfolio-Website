@@ -560,6 +560,9 @@ html {
   #lab_social_icon_footer #social-yt:hover {
     color: #af1515;
   }
+ #lab_social_icon_footer #social-li:hover {
+    color: #14137c;
+  }
 
   #social-loc:hover {
     color: #14137c;
