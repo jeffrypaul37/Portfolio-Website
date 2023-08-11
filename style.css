@@ -253,14 +253,6 @@ html {
     /* Other styling properties as needed */
 }
 
-/* Optionally, you can add a container to center-align your content */
-.image-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh; /* Minimum height of the container to ensure content is vertically centered */
-    padding: 20px; /* Add padding to create some space around the images */
-}
 
 
 .desc1 {
