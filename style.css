@@ -246,60 +246,14 @@ html {
    
 }
 
-.responsive1{
-
+.responsive1, .responsive2, .responsive3 {
     position: relative;
-   height: 100%;
-   width: 100%;
-   
-    
-    
+    max-width: 100%; /* Set a maximum width to prevent images from getting too large */
     display: flex;
     justify-content: center;
     align-items: center;
-  
-   
-    filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(520deg) brightness(95%) contrast(80%);
-
-    
+    /* Other styling properties as needed */
 }
-
-.responsive2{
-
-   position: relative;
-   height: 100%;
-   width: 100%;
-   
-    
-    
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  
-   
-
-
-    
-}
-
-.responsive3{
-
-    position: relative;
-    height: 100%;
-    width: 100%;
-    
-     
-     
-     display: flex;
-     justify-content: center;
-     align-items: center;
-     border-radius: 25px;
-    
- 
- 
-     
- }
-
 
 
 .desc1 {
