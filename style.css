@@ -248,7 +248,7 @@ html {
 
 .responsive1, .responsive2, .responsive3 {
     display: block; /* Change from flex to block */
-    max-width: 100%; /* Set a maximum width to prevent images from getting too large */
+    max-width: 75%; /* Set a maximum width to prevent images from getting too large */
     margin: 0 auto; /* Center the images horizontally */
     /* Other styling properties as needed */
 }
