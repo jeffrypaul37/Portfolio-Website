@@ -247,12 +247,19 @@ html {
 }
 
 .responsive1, .responsive2, .responsive3 {
-    position: relative;
+    display: block; /* Change from flex to block */
     max-width: 100%; /* Set a maximum width to prevent images from getting too large */
+    margin: 0 auto; /* Center the images horizontally */
+    /* Other styling properties as needed */
+}
+
+/* Optionally, you can add a container to center-align your content */
+.image-container {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* Other styling properties as needed */
+    min-height: 100vh; /* Minimum height of the container to ensure content is vertically centered */
+    padding: 20px; /* Add padding to create some space around the images */
 }
 
 
